@@ -5,7 +5,7 @@ import 'package:liste_dersleri/etkin_Liste_ornek.dart';
 main() {
   runApp(
     MaterialApp(
-      title: "Flutter Dersleri",
+      title: "Flutter Dersleri-GitHub",
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.orange,
