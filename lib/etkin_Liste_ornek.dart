@@ -16,5 +16,5 @@ class Ogrenci{
   String _aciklama;
   bool _cinsiyet;
 
-  Ogrenci(this._isim, this._aciklama, this._cinsiyet,);
+  lunOgrenci(this._isim, this._aciklama, this._cinsiyet,);
 }
